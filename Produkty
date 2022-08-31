@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T16:50:38.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sRMjA3KPgYg8r3RiyMfw" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T16:51:50.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qjrATaykEJZ21WFMttOI" version="20.2.7" type="github">
   <diagram id="hSBTY1KNgGtsWCCcjn-L" name="Stránka-1">
-    <mxGraphModel dx="5183" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3693" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,7 +466,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fTCJyvf83G06RqMsfOZA-179" value="Products" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-295" y="910" width="3290" height="240" as="geometry">
+          <mxGeometry x="-270" y="910" width="3290" height="240" as="geometry">
             <mxRectangle x="610" y="320" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
